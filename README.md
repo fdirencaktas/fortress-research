@@ -6,7 +6,7 @@ This repository contains the code and data (where permissible) for my research p
 ## Author
 Fikri Direnç Aktaş
 - [LinkedIn](www.linkedin.com/in/direncaktas)
-- [SSRN]([link](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=11237428))
+- [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=11237428)
 
 ## Repository Structure
 
