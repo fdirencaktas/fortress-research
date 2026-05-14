@@ -10,11 +10,17 @@ Fikri Direnç Aktaş
 
 ## Repository Structure
 
+
 fortress-research/
 │
-├── README.md
+
 │
-├── papers/
+
+├── README.md
+
+├── LICENSE
+
+├── requirements.txt
 
 
 ## Papers
