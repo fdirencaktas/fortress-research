@@ -33,3 +33,4 @@ fortress-research/
 | 4 | The Political Economy of Market Regimes (Forthcoming)
 | 5 | A Decision Framework for the Political Systematical Trader (Forthcoming)
 | 6 | Are Turkish REITs Proxies for Direct Real Estate? | (Forthcoming) | [[code](https://github.com/fdirencaktas/fortress-research/blob/main/reit_arfima_dcc/code/code.py)] | 
+| 7 | Strategic Unreasonableness: A Tool of the Political Systematical Trader | (Forthcoming) | [[code](https://github.com/fdirencaktas/fortress-research/blob/main/strategic-unreasonableness/code/Strategic_Unreasonableness.py)
